@@ -1,0 +1,12 @@
+fastapi~=0.115.0
+argparse~=1.4.0
+moviepy~=1.0.3
+numpy
+matplotlib~=3.9.2
+tqdm~=4.66.5
+joblib~=1.4.2
+psutil~=6.0.0
+modal~=0.64.178
+starlette~=0.38.6
+pydantic~=2.9.2
+proglog~=0.1.10
